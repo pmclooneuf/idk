@@ -18,7 +18,7 @@ def main():
         print("3. Quit ")
         print()
 
-        option = input("Please enter an option: ")
+        option = int(input("Please enter an option: "))
 
         if option == 1:
             password = input("Please enter your password to encode: ")
