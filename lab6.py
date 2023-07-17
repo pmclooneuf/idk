@@ -1,3 +1,4 @@
+# Patrick McLoone
 
 def encode(password):
     encoded_password = ""
